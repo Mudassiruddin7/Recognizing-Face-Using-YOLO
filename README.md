@@ -139,7 +139,8 @@ The Datafile which was used in this project was some yolov3 configuration files,
 **Note: All the required data hasn't been provided over here i.e the model weigths are not provided over here. Please feel free to contact me for any issues.**
 
 ### _**Let’s Connect**_
-https://www.linkedin.com/in/mudassiruddin21
+
+<a href="https://linkedin.com/in/mudassiruddin21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mudassiruddin21" height="30" width="40" /></a>
 
 ![Connect](https://media1.tenor.com/images/888de7ec66dd5053c46d4dba5b415003/tenor.gif?itemid=3455710)
 
